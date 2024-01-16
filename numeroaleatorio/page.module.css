@@ -1,0 +1,36 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    animation: intro 5s;
+}
+
+@keyframes intro{
+0% {opacity: 0; font-size: 0px; color:black;}
+50%{opacity: 1; font-size: 80px; color:black;}
+100%{opacity: 0; font-size: 0px; color:black;}
+}
+
+@keyframes body{
+    0%{opacity: 0;}
+    84%{opacity: 0;}
+    100%{opacity: 1;}
+}
+
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: body 6s;
+}
+
+.feedback{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+
+
+

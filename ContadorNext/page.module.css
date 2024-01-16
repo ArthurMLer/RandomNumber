@@ -1,0 +1,37 @@
+.btnsomaconfig{
+border: 2px solid greenyellow;
+color: black;
+background-color: greenyellow;
+}
+
+.btnsubconfig{
+    border: 2px solid red;
+    color:white;
+    background-color: red;
+}
+
+.btnmultconfig{
+    border: 2px solid blue;
+    color: white;
+    background-color: blue;
+}
+
+.btnzeroconfig{
+   border: 2px solid black;
+   color: white;
+   background-color: black; 
+}
+
+.btndivconfig{
+    border: 2px solid yellow;
+    color: black;
+    background-color: yellow;
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
+}
